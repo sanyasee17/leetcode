@@ -1,4 +1,4 @@
-# My LeetCode Solutions
+# LeetCode
 
 My Leetcode Profile Page : https://leetcode.com/sanyasee17/
 
